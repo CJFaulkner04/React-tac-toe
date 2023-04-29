@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CJFaulkner04/React-tac-toe/static/css/main.305997e6.css",
+    "main.js": "/CJFaulkner04/React-tac-toe/static/js/main.33595f18.js",
+    "static/js/787.393238a3.chunk.js": "/CJFaulkner04/React-tac-toe/static/js/787.393238a3.chunk.js",
+    "index.html": "/CJFaulkner04/React-tac-toe/index.html",
+    "main.305997e6.css.map": "/CJFaulkner04/React-tac-toe/static/css/main.305997e6.css.map",
+    "main.33595f18.js.map": "/CJFaulkner04/React-tac-toe/static/js/main.33595f18.js.map",
+    "787.393238a3.chunk.js.map": "/CJFaulkner04/React-tac-toe/static/js/787.393238a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.305997e6.css",
+    "static/js/main.33595f18.js"
+  ]
+}
