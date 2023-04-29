@@ -1,0 +1,8 @@
+.score{
+    display: flex;
+    width: 40%;
+    margin: auto;
+    justify-content: space-around;
+    text-align: center;
+
+}
